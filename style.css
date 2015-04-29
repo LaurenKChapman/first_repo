@@ -2,17 +2,35 @@ header {
   padding: 10px ;  
 }
 body p {
- color: orange; 
+ color: yellow; 
 }
 body aside {
   background-color: green;
 }
 body aside section {
-  text-align: right ;
+  text-align: center ;
 }
 body header h1 {
 font-size: 6.1em ;
+text-align: center ;
+color: FAAAEA ;
+font-family: monospace ;
 }
 body header img {
 margin-left: 40% ;
+}
+.color {
+  color: 49F5BC ;
+  font-family: fantasy ;
+}
+p {
+  font-size: 2.1em ;
+}
+.list {
+  list-style-type: square ;
+  font-family: monospace ;
+  font-size: 1.5em ;
+}
+header article {
+  background-color: FA9691 ;
 }
