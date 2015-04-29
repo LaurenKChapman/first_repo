@@ -1,0 +1,18 @@
+header {
+  padding: 10px ;  
+}
+body p {
+ color: orange; 
+}
+body aside {
+  background-color: green;
+}
+body aside section {
+  text-align: right ;
+}
+body header h1 {
+font-size: 6.1em ;
+}
+body header img {
+margin-left: 40% ;
+}
